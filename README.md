@@ -13,8 +13,8 @@ Soy estudiante de Ingeniería en Software <img src="https://github.com/TheDudeTh
 
 ### 💻 *Habilidades y Tecnologías*: <br>
 ✔Lenguajes: HTML, CSS, JavaScript, Python, SQL, C# <br>
-✔Frameworks: .NET, React.js,(en proceso) Bootstrap <br>
-✔Bases de Datos:SQL Server y sql ORACLE <br>
+✔Frameworks: .NET, React.js,Bootstrap <br>
+✔Bases de Datos:SQL Server y SQL ORACLE <br>
 ✔Herramientas: Git, GitHub, VS Code <br> 
 
 <hr>
