@@ -25,8 +25,7 @@ Soy estudiante de Ingeniería en Software <img src="https://github.com/TheDudeTh
    <br>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/yafreisi-geraldo-rosario/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a href="mailto:geraldorosario@gmail.com"><img alt="Gmail" title="Yafreisi Geraldo Rosario Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a target="_blank" href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a href="mailto:geraldorosarioyafreisi@gmail.com"><img alt="Gmail" title="Yafreisi_Geraldo_Rosario_Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br>
 </p>
 
