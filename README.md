@@ -9,7 +9,7 @@
 
 
 
-Soy estudiante de Ingeniería en Software apasionado por el desarrollo web y la optimización de sistemas <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Me motiva crear aplicaciones y páginas web que no solo sean funcionales, sino también eficientes, priorizando el rendimiento, la experiencia del usuario y una estructura de código sólida. Me especializo en la integración y administración de bases de datos, y tengo un compromiso constante con la mejora continua a través del aprendizaje de nuevas tecnologías y la implementación de prácticas de desarrollo modernas:robot: 
+Soy estudiante de Ingeniería en Software apasionado por el desarrollo web y la optimización de sistemas <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> tengo un compromiso constante con la mejora continua a través del aprendizaje de nuevas tecnologías y la implementación de prácticas de desarrollo modernas. 
 
 ### 💻 *Habilidades y Tecnologías*: <br>
 ✔Lenguajes: HTML, CSS, JavaScript, SQL, Node.js <br>
